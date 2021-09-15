@@ -45,17 +45,12 @@ author:
 ### Posts ###
 permalink: /textos/:title
 
-
+   
 ### Collections ###
 collections:
   projects:
     output: true
     permalink: /projects/:name
-
-
-### Disqus ###
-disqus: your-short-name-disqus                          # Your website Shortname on disqus
-
 
 ### Analytics ###
 analytics:
@@ -75,7 +70,8 @@ defaults:
       path: ""
       type: "posts"
     values:
-      comments: false                                   # Set to true to enable disqus comments
+      comments: false   
+
 
 ### Exclude from processing ###
 exclude:
