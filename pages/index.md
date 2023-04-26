@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /
-title: Proyectos
+title: Projects
 ---
 
 {% include projects/index.html %}
