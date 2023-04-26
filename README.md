@@ -1,4 +1,11 @@
 # tomasrawski.com.ar
 
-test with
+This is my personal art web site.
+
+It is built with [Jekyll](https://jekyllrb.com/) and hosted/deployed on [Vercel](https://vercel.com/).
+
+[tomasrawski.com.ar](https://tomasrawski.com.ar)
+
+test local with
+bundle install
 bundle exec jekyll serve
