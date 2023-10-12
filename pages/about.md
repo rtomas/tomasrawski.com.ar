@@ -79,6 +79,8 @@ Currently, he is working on projects that involve symbolic repairs of spaces, pe
 
 ## Premios / Becas / Selecciones / Residencias:
 
+-   2023
+    -   Programa Presente-Continuo: Arte, Ciencia Y Tecnología, organizado por la Fundación Bunge y Born y la Fundación Williams. Selección Oficial.
 -   2020
     -   Investigación en la UNA: "Arte y sanación en la era de las nuevas tecnologías. Rituales, reparaciones simbólicas y acciones positivas"
 -   2018
