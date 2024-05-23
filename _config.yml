@@ -7,6 +7,9 @@ remote_theme: rtomas/portfolYOU
 
 ### Plugins ###
 plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-remote-theme
 
 ### Navbar Settings ###
 nav_exclude: # The following paths are excluded from navbar
