@@ -1,0 +1,26 @@
+{
+    "name": "tomasrawski.com.ar",
+    "version": "1.0.0",
+    "description": "Personal art website built with Jekyll",
+    "main": "index.js",
+    "scripts": {
+      "dev": "bundle exec jekyll serve",
+      "build": "bundle exec jekyll build",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/yourusername/tomasrawski.com.ar.git"
+    },
+    "keywords": [
+      "art",
+      "portfolio",
+      "jekyll"
+    ],
+    "author": "Tomas Rawski",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/yourusername/tomasrawski.com.ar/issues"
+    },
+    "homepage": "https://tomasrawski.com.ar"
+  }

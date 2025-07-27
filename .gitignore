@@ -12,3 +12,5 @@ Gemfile.lock
 *.log
 .vercel
 .vscode
+
+.DS_Store
