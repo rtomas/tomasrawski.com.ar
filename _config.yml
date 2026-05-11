@@ -49,12 +49,6 @@ collections:
         output: true
         permalink: /projects/:name
 
-### Analytics ###
-analytics:
-    enabled: true # Set true to enable analytics
-    google:
-        tracking_id: UA-175891-9
-
 ### Defaults for collections ###
 defaults:
     - scope:
