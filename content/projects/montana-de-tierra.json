@@ -1,0 +1,13 @@
+{
+  "slug": "montana-de-tierra",
+  "title": "A mountain of land",
+  "tools": [
+    "installation",
+    "cellphone",
+    "tech"
+  ],
+  "date": "2019-10-01",
+  "description": "Site-specific en forma de reparación simbolica para la Fundación Fortabat. Realizada para poder generar un paisaje montañoso con la creación de un algoritmo basado en ruido orgánico.",
+  "image": "/assets/102.1.png",
+  "content": "<h1>Una montaña de tierra (A mountain of land)</h1>\n<h6>2018, Fundación Fortabat</h6>\n<p>The work was a site-specific in the form of a symbolic reparation for the Fortabat Foundation. Made and programmed to be able to generate a mountainous landscape with the creation of an algorithm based on organic noise.</p>\n<p>Basically random values that move up or down slowly, generating random curves that, placed on the screens, create mountainous landscapes.</p>\n<p>The generation of a convex screen, towards the inside of the place, transforms the exhibition space into an immersive landscape.</p>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/oQMxV-625wY?si=qjCQOzWA8cEMkukZ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+}

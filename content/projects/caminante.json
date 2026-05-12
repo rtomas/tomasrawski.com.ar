@@ -1,0 +1,12 @@
+{
+  "slug": "caminante",
+  "title": "Walker",
+  "tools": [
+    "drawing",
+    "montain"
+  ],
+  "date": "2021-07-01",
+  "description": "Hiker, no road leads to the mountains. If you want to get there you will have to forge new paths.",
+  "image": "/assets/97.0.jpg",
+  "content": "<h1>Walker</h1>\n<h6>2021, digital collage</h6>\n<p>Hiker, no road leads to the mountains. If you want to get there you will have to forge new paths.</p>\n<img src=\"/assets/97.1.jpg\" alt=\"preview\">\n<img src=\"/assets/97.11.jpg\" alt=\"preview\">\n<img src=\"/assets/97.2.jpg\" alt=\"preview\">\n<img src=\"/assets/97.3.jpg\" alt=\"preview\">\n<img src=\"/assets/97.4.jpg\" alt=\"preview\">\n<img src=\"/assets/97.5.jpg\" alt=\"preview\">\n<img src=\"/assets/97.6.jpg\" alt=\"preview\">\n<img src=\"/assets/97.7.jpg\" alt=\"preview\">\n<img src=\"/assets/97.9.jpg\" alt=\"preview\">\n<img src=\"/assets/97.10.jpg\" alt=\"preview\">"
+}

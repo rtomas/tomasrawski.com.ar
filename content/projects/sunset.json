@@ -1,0 +1,12 @@
+{
+  "slug": "sunset",
+  "title": "Sunset",
+  "tools": [
+    "Pantone",
+    "Colors"
+  ],
+  "date": "2019-10-01",
+  "description": "Pantone RGB colours of a sunset.",
+  "image": "/assets/111.1.jpg",
+  "content": "<h1>Atardecer</h1>\n<h6>2013</h6>\n<p>Pantone RGB colours of a sunset</p>\n<img src=\"/assets/111.1.jpg\" alt=\"preview\">"
+}
